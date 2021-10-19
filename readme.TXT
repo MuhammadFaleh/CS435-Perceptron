@@ -1,0 +1,1 @@
+python 3 and numpy 1.19.4 are used 
